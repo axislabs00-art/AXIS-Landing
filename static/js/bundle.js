@@ -1258,6 +1258,175 @@ const Final = () => {
       fileName: _jsxFileName,
       lineNumber: 19,
       columnNumber: 7
+    }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("section", {
+      id: "fundadores",
+      "data-testid": "founders-section",
+      className: "border-t border-white/[0.06] py-24 sm:py-32 lg:py-40",
+      "x-file-name": "Final",
+      "x-line-number": "57",
+      "x-column": "6",
+      "x-component": "section",
+      "x-id": "Final_57_6",
+      "x-dynamic": "true",
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+        className: "mx-auto max-w-7xl px-6 sm:px-8 lg:px-12",
+        "x-file-name": "Final",
+        "x-line-number": "63",
+        "x-column": "8",
+        "x-component": "div",
+        "x-id": "Final_63_8",
+        "x-dynamic": "false",
+        children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)(_motion__WEBPACK_IMPORTED_MODULE_2__.Reveal, {
+          "x-file-name": "Final",
+          "x-line-number": "64",
+          "x-column": "10",
+          "x-component": "Reveal",
+          "x-id": "Final_64_10",
+          "x-dynamic": "true",
+          children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+            className: "text-center",
+            "x-file-name": "Final",
+            "x-line-number": "65",
+            "x-column": "12",
+            "x-component": "div",
+            "x-id": "Final_65_12",
+            "x-dynamic": "false",
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)(_motion__WEBPACK_IMPORTED_MODULE_2__.Eyebrow, {
+              testId: "founders-eyebrow",
+              "x-file-name": "Final",
+              "x-line-number": "66",
+              "x-column": "14",
+              "x-component": "Eyebrow",
+              "x-id": "Final_66_14",
+              "x-dynamic": "true",
+              "x-source-type": "unknown",
+              "x-source-var": "t",
+              "x-source-path": "founders.eyebrow",
+              "x-source-editable": "false",
+              children: t.founders.eyebrow
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 66,
+              columnNumber: 15
+            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("h2", {
+              className: "mt-5 font-display text-3xl font-semibold tracking-tight text-zinc-50 sm:text-4xl",
+              "x-file-name": "Final",
+              "x-line-number": "70",
+              "x-column": "14",
+              "x-component": "h2",
+              "x-id": "Final_70_14",
+              "x-dynamic": "true",
+              "x-source-type": "unknown",
+              "x-source-var": "t",
+              "x-source-path": "founders.title",
+              "x-source-editable": "false",
+              children: t.founders.title
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 70,
+              columnNumber: 15
+            }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("p", {
+              className: "mx-auto mt-5 max-w-xl text-base text-zinc-500 sm:text-lg",
+              "x-file-name": "Final",
+              "x-line-number": "76",
+              "x-column": "14",
+              "x-component": "p",
+              "x-id": "Final_76_14",
+              "x-dynamic": "true",
+              "x-source-type": "unknown",
+              "x-source-var": "t",
+              "x-source-path": "founders.subtitle",
+              "x-source-editable": "false",
+              children: t.founders.subtitle
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 76,
+              columnNumber: 15
+            }, undefined)]
+          }, void 0, true, {
+            fileName: _jsxFileName,
+            lineNumber: 65,
+            columnNumber: 13
+          }, undefined)
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 64,
+          columnNumber: 11
+        }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+          className: "mt-14 grid gap-4 sm:grid-cols-2",
+          "x-file-name": "Final",
+          "x-line-number": "84",
+          "x-column": "8",
+          "x-component": "div",
+          "x-id": "Final_84_8",
+          "x-dynamic": "true",
+          children: t.founders.members.map((member, i) => /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)(_motion__WEBPACK_IMPORTED_MODULE_2__.Reveal, {
+            delay: i * 0.08,
+            "x-file-name": "Final",
+            "x-line-number": "85",
+            "x-column": "10",
+            "x-component": "Reveal",
+            "x-id": `Final_85_${i}`,
+            "x-dynamic": "true",
+            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("div", {
+              className: "rounded-3xl border border-white/[0.07] bg-white/[0.02] p-6 sm:p-7",
+              "x-file-name": "Final",
+              "x-line-number": "91",
+              "x-column": "12",
+              "x-component": "div",
+              "x-id": `Final_91_${i}`,
+              "x-dynamic": "true",
+              children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("p", {
+                className: "font-display text-lg font-semibold text-zinc-100",
+                "x-file-name": "Final",
+                "x-line-number": "92",
+                "x-column": "14",
+                "x-component": "p",
+                "x-id": `Final_92_${i}`,
+                "x-dynamic": "true",
+                children: member.name
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 92,
+                columnNumber: 15
+              }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("p", {
+                className: "mt-2 text-sm text-zinc-500",
+                "x-file-name": "Final",
+                "x-line-number": "96",
+                "x-column": "14",
+                "x-component": "p",
+                "x-id": `Final_96_${i}`,
+                "x-dynamic": "true",
+                children: member.role
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 96,
+                columnNumber: 15
+              }, undefined)]
+            }, void 0, true, {
+              fileName: _jsxFileName,
+              lineNumber: 91,
+              columnNumber: 13
+            }, undefined)
+          }, i, false, {
+            fileName: _jsxFileName,
+            lineNumber: 85,
+            columnNumber: 11
+          }, undefined))
+        }, void 0, false, {
+          fileName: _jsxFileName,
+          lineNumber: 84,
+          columnNumber: 9
+        }, undefined)]
+      }, void 0, true, {
+        fileName: _jsxFileName,
+        lineNumber: 63,
+        columnNumber: 7
+      }, undefined)
+    }, void 0, true, {
+      fileName: _jsxFileName,
+      lineNumber: 57,
+      columnNumber: 5
     }, undefined), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_3__.jsxDEV)("footer", {
       "data-testid": "footer",
       className: "border-t border-white/[0.06] py-14",
@@ -2336,7 +2505,7 @@ var _jsxFileName = "/app/frontend/src/components/landing/Humanity.jsx",
 
 
 
-const IMG = "https://images.unsplash.com/photo-1532171875345-9712d9d4f65a?crop=entropy&amp;cs=srgb&amp;fm=jpg&amp;ixid=M3w3NTY2NzZ8MHwxfHNlYXJjaHwxfHxjaW5lbWF0aWMlMjBkcmFtYXRpYyUyMHBvcnRyYWl0JTIwbW9vZHklMjBkYXJrJTIwbGlnaHQlMjBodW1hbiUyMGVtb3Rpb258ZW58MHx8fHwxNzg4NzkxMTc0fDA&amp;ixlib=rb-4.1.0&amp;q=85";
+const IMG = "humanity-crowd.jpg";
 const Humanity = () => {
   _s();
   const {
@@ -5071,14 +5240,14 @@ const translations = {
       technology: "Tecnología",
       privacy: "Privacidad",
       premium: "Premium",
-      enter: "Entrar",
+      enter: "Próximamente",
       openMenu: "Abrir menú",
       closeMenu: "Cerrar menú"
     },
     hero: {
       badge: "AXIS — THE FUTURE OF HUMAN AI",
-      titleLines: ["Technology", "Needs", "Humanity."],
-      subtitle: "Una inteligencia artificial diseñada para ayudarte a pensar, crear, aprender y avanzar sin perder lo que nos hace humanos.",
+      titleLines: ["Be Human."],
+      subtitle: "The future reinvented.",
       explore: "Explorar AXIS",
       more: "Conocer más",
       scrollHint: "Desliza",
@@ -5104,7 +5273,7 @@ const translations = {
         title: "Acompaña",
         text: "Ideas, proyectos, aprendizaje y creatividad. Una presencia discreta que avanza contigo."
       }],
-      marquee: ["BE HUMAN", "TECHNOLOGY NEEDS HUMANITY", "CONVERSACIÓN", "CREATIVIDAD", "APRENDIZAJE", "PRIVACIDAD"]
+      marquee: ["BE HUMAN", "THE FUTURE REINVENTED", "CONVERSACIÓN", "CREATIVIDAD", "APRENDIZAJE", "PRIVACIDAD"]
     },
     features: {
       eyebrow: "02 — Funciones",
@@ -5136,12 +5305,12 @@ const translations = {
       }]
     },
     humanity: {
-      eyebrow: "03 — Humanidad",
-      titleA: "La inteligencia no lo es todo.",
-      titleB: "La tecnología puede ser poderosa.",
-      titleAccent: "Pero debe seguir siendo humana.",
-      body: "AXIS no busca sustituir la humanidad. Busca potenciarla.",
-      imageAlt: "Retrato cinematográfico en penumbra que representa la emoción humana"
+      eyebrow: "03 — Filosofía",
+      titleA: "El mundo tiene mucha IA y muchos humanos, pero...",
+      titleB: "La IA no es empática y el mundo no tiene humanidad.",
+      titleAccent: "AXIS está hecho para ti, para escucharte y para estar.",
+      body: "Hecho por humanos para Humanos.",
+      imageAlt: "Una multitud de personas representa la humanidad, la conexión y la diversidad"
     },
     technology: {
       eyebrow: "04 — Tecnología",
@@ -5187,11 +5356,29 @@ const translations = {
     },
     premium: {
       eyebrow: "06 — Premium",
-      title: "AXIS, sin límites.",
-      body: "AXIS Premium ofrece capacidades adicionales y una experiencia más avanzada para quienes quieren llegar más lejos.",
-      points: ["Capacidades adicionales", "Experiencia más avanzada", "Acceso anticipado a novedades"],
+      title: "AXIS Premium. Mucho más que Free.",
+      body: "Todo lo que ofrece AXIS Free, elevado a una experiencia mucho más potente, rápida y exclusiva.",
+      points: ["Todo lo de AXIS Free", "Almacenamiento en la nube", "Modelos de última generación", "Acceso anticipado a funciones", "Más rapidez", "Prioridad cuando los servidores están llenos"],
       pricingNote: "Los planes y precios se anunciarán en el lanzamiento.",
       cta: "Descubrir Premium"
+    },
+    founders: {
+      eyebrow: "— Fundadores",
+      title: "Hecho por humanos para Humanos.",
+      subtitle: "Las personas detrás de AXIS.",
+      members: [{
+        name: "Marcos De Niro",
+        role: "CEO"
+      }, {
+        name: "Duvan Astudillo",
+        role: "Director de diseño y Marketing"
+      }, {
+        name: "Juan Pablo",
+        role: "Test y Debugg de AXIS"
+      }, {
+        name: "Cristopher",
+        role: "Embajador"
+      }]
     },
     launch: {
       eyebrow: "07 — Lanzamiento",
@@ -5205,7 +5392,7 @@ const translations = {
     },
     final: {
       title: "Be Human.",
-      subtitle: "Technology Needs Humanity.",
+      subtitle: "The future reinvented.",
       cta: "Próximamente en Play Store y Web"
     },
     footer: {
@@ -5225,14 +5412,14 @@ const translations = {
       technology: "Technology",
       privacy: "Privacy",
       premium: "Premium",
-      enter: "Sign in",
+      enter: "Coming soon",
       openMenu: "Open menu",
       closeMenu: "Close menu"
     },
     hero: {
       badge: "AXIS — THE FUTURE OF HUMAN AI",
-      titleLines: ["Technology", "Needs", "Humanity."],
-      subtitle: "An artificial intelligence designed to help you think, create, learn and move forward without losing what makes us human.",
+      titleLines: ["Be Human."],
+      subtitle: "The future reinvented.",
       explore: "Explore AXIS",
       more: "Learn more",
       scrollHint: "Scroll",
@@ -5258,7 +5445,7 @@ const translations = {
         title: "Accompanies",
         text: "Ideas, projects, learning and creativity. A quiet presence moving forward with you."
       }],
-      marquee: ["BE HUMAN", "TECHNOLOGY NEEDS HUMANITY", "CONVERSATION", "CREATIVITY", "LEARNING", "PRIVACY"]
+      marquee: ["BE HUMAN", "THE FUTURE REINVENTED", "CONVERSATION", "CREATIVITY", "LEARNING", "PRIVACY"]
     },
     features: {
       eyebrow: "02 — Features",
@@ -5290,12 +5477,12 @@ const translations = {
       }]
     },
     humanity: {
-      eyebrow: "03 — Humanity",
-      titleA: "Intelligence is not everything.",
-      titleB: "Technology can be powerful.",
-      titleAccent: "But it must remain human.",
-      body: "AXIS does not seek to replace humanity. It seeks to empower it.",
-      imageAlt: "Cinematic low-light portrait representing human emotion"
+      eyebrow: "03 — Philosophy",
+      titleA: "The world has a lot of AI and many humans, but...",
+      titleB: "AI is not empathetic, and the world lacks humanity.",
+      titleAccent: "AXIS is made for you, to listen and to be there.",
+      body: "Made by humans for Humans.",
+      imageAlt: "A crowd of people representing humanity, connection and diversity"
     },
     technology: {
       eyebrow: "04 — Technology",
@@ -5341,11 +5528,29 @@ const translations = {
     },
     premium: {
       eyebrow: "06 — Premium",
-      title: "AXIS, without limits.",
-      body: "AXIS Premium offers additional capabilities and a more advanced experience for those who want to go further.",
-      points: ["Additional capabilities", "A more advanced experience", "Early access to what's new"],
+      title: "AXIS Premium. Far beyond Free.",
+      body: "Everything in AXIS Free, elevated into a much more powerful, faster and exclusive experience.",
+      points: ["Everything in AXIS Free", "Cloud storage", "Next-generation models", "Early access to new features", "Faster performance", "Priority when servers are full"],
       pricingNote: "Plans and pricing will be announced at launch.",
       cta: "Discover Premium"
+    },
+    founders: {
+      eyebrow: "— Founders",
+      title: "Made by humans for Humans.",
+      subtitle: "The people behind AXIS.",
+      members: [{
+        name: "Marcos De Niro",
+        role: "CEO"
+      }, {
+        name: "Duvan Astudillo",
+        role: "Design & Marketing Director"
+      }, {
+        name: "Juan Pablo",
+        role: "AXIS Testing & Debugging"
+      }, {
+        name: "Cristopher",
+        role: "Ambassador"
+      }]
     },
     launch: {
       eyebrow: "07 — Launch",
@@ -5359,7 +5564,7 @@ const translations = {
     },
     final: {
       title: "Be Human.",
-      subtitle: "Technology Needs Humanity.",
+      subtitle: "The future reinvented.",
       cta: "Coming soon on Play Store & Web"
     },
     footer: {
