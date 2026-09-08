@@ -5206,7 +5206,7 @@ const translations = {
     final: {
       title: "Be Human.",
       subtitle: "Technology Needs Humanity.",
-      cta: "Entrar a AXIS"
+      cta: "Próximamente en Play Store y Web"
     },
     footer: {
       product: "Producto",
@@ -5360,7 +5360,7 @@ const translations = {
     final: {
       title: "Be Human.",
       subtitle: "Technology Needs Humanity.",
-      cta: "Enter AXIS"
+      cta: "Coming soon on Play Store & Web"
     },
     footer: {
       product: "Product",
